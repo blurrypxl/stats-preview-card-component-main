@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-[- Stats Preview Card - Mobile](./ss-mobile.jpeg)
-[- Stats Preview Card - Desktop](./ss-desktop.jpeg)
+- Mobile - [Stats Preview Card - View](./ss-mobile.jpeg)
+- Desktop - [Stats Preview Card - View](./ss-desktop.jpeg)
 
 ### Links
 
-- Solution URL: [Frontend Mentor - Stats Preview Card](https://your-solution-url.com)
-- Live Site URL: [Versel - Stats Preview Card](https://your-live-site-url.com)
+- Frontend Mentor URL: [Stats Preview Card - Solution](https://your-solution-url.com)
+- Versel URL: [Stats Preview Card - Live Preview](https://stats-preview-card-component-main-sigma.vercel.app/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@blurrypxl](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@blurrypxl](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@blurrypxl](https://www.frontendmentor.io/profile/blurrypxl)
+- Github - [@blurrypxl](https://github.com/blurrypxl)
