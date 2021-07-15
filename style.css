@@ -92,7 +92,7 @@ main .grid-child-3 .stats {
   padding: 10px 30px;
   text-align: center;
 }
-main .grid-child-3 .stats h3 {
+main .grid-child-3 .stats h2 {
   margin: 10px 0;
   font-weight: 550;
   font-size: 6.5vw;
@@ -116,7 +116,7 @@ main .grid-child-3 .stats p {
   main .grid-child-2 p {
     font-size: 0.9em;
   }
-  main .grid-child-3 .stats h3 {
+  main .grid-child-3 .stats h2 {
     font-size: 1.3em;
   }
   main .grid-child-3 .stats p {
@@ -156,7 +156,7 @@ main .grid-child-3 .stats p {
   main .grid-child-3 .stats {
     text-align: left;
   }
-  main .grid-child-3 .stats h3 {
+  main .grid-child-3 .stats h2 {
     margin: 5px 0;
     font-size: 1.3em;
   }
@@ -189,7 +189,7 @@ main .grid-child-3 .stats p {
   main .grid-child-1 .img-desktop {
     display: none;
   }
-  /* main .grid-child-2 h2, main .grid-child-3 .stats h3 {
+  /* main .grid-child-2 h2, main .grid-child-3 .stats h2 {
     font-size: 4em;
   } */
   main .grid-child-2 {
@@ -209,7 +209,7 @@ main .grid-child-3 .stats p {
     text-align: center;
     padding: 20px;
   }
-  /* main .grid-child-3 .stats h3 {
+  /* main .grid-child-3 .stats h2 {
     font-size: 3em;
   }
   main .grid-child-3 .stats p {
